@@ -2,6 +2,8 @@
 
 > Real-time object detection using YOLOv5 & YOLOv8 with live webcam feed, bounding box visualization, and confidence scoring — powered by PyTorch and OpenCV.
 
+**Made by [Pratham Sorte](https://github.com/prathaaaaaaam)**
+
 ---
 
 ## 📌 Table of Contents
@@ -201,6 +203,13 @@ Contributions are welcome! If you'd like to improve this project:
 ## 📄 License
 
 This project is open source. Feel free to use, modify, and distribute it.
+
+---
+
+## 👨‍💻 Author
+
+**Pratham Sorte**
+- GitHub: [@prathaaaaaaam](https://github.com/prathaaaaaaam)
 
 ---
 
